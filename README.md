@@ -18,7 +18,7 @@ This project demonstrates a Convolutional Neural Network (CNN) built with Tensor
 
 1. Clone the repository:
     bash
-    git clone https://github.com/yourusername/cnn-image-classification.git
+    git clone https://github.com/saarib2405/Image_Classification_Using_CNN.git
     cd cnn-image-classification
     
 
